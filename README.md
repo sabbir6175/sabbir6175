@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/481768841_1149776180111529_3629682360606918791_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGnkTbNYiRVVdsyYWn5IfvxjmcqKFFaLD2OZyooUVosPRBL-p9xTQDXdksW0qIxc2xRPbQu7IMG2212Xf9jcTPi&_nc_ohc=ShCrT0d-JH4Q7kNvgFlDsCN&_nc_oc=Adhkvc9j0qQT34i3Fyu_8muSDvfth4i_jb78MNLGhp9pHOfYoKrVInb6SBc8ChqM5RQ&_nc_zt=23&_nc_ht=scontent.fdac31-1.fna&_nc_gid=Ae8bhG-wuIK-Ey5rHHQHIBd&oh=00_AYAa8YKTyaNnoksb5qThDVqR9F4iJ_VO282zqnqSpdCEOw&oe=67BFDA44"  />
+  <img height="300" src="https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/481768841_1149776180111529_3629682360606918791_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGnkTbNYiRVVdsyYWn5IfvxjmcqKFFaLD2OZyooUVosPRBL-p9xTQDXdksW0qIxc2xRPbQu7IMG2212Xf9jcTPi&_nc_ohc=ShCrT0d-JH4Q7kNvgFlDsCN&_nc_oc=Adhkvc9j0qQT34i3Fyu_8muSDvfth4i_jb78MNLGhp9pHOfYoKrVInb6SBc8ChqM5RQ&_nc_zt=23&_nc_ht=scontent.fdac31-1.fna&_nc_gid=Ae8bhG-wuIK-Ey5rHHQHIBd&oh=00_AYAa8YKTyaNnoksb5qThDVqR9F4iJ_VO282zqnqSpdCEOw&oe=67BFDA44"  />
 </div>
 
 ###
@@ -45,12 +45,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sabbir6175/count.svg?"  />
-</div>
-
-###
-
 <h2 align="center">Contact With Me !</h2>
 
 ###
@@ -66,10 +60,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=sabbir6175&theme=default" alt="Layout with last medium posts"  />
+  <img src="https://profile-counter.glitch.me/sabbir6175/count.svg?"  />
 </div>
 
 ###
