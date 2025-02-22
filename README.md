@@ -1,14 +1,14 @@
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D5616AQHar2Hr99gXSA/profile-displaybackgroundimage-shrink_350_1400/B56ZUvES1aGsAY-/0/1740251411796?e=1745452800&v=beta&t=JNMomx8oB1vqlkux9worSNxGeddC-WUmNRHbMpNK5xs"  />
+  <img height="300" src="https://media.licdn.com/dms/image/v2/D5616AQHar2Hr99gXSA/profile-displaybackgroundimage-shrink_350_1400/B56ZUvES1aGsAY-/0/1740251411796?e=1745452800&v=beta&t=JNMomx8oB1vqlkux9worSNxGeddC-WUmNRHbMpNK5xs"  />
 </div>
 
 ###
 
-<h1 align="left">Hey 👋 I'm Sabbir Hasan?</h1>
+<h1 align="center">Hey 👋 I'm Sabbir Hasan?</h1>
 
 ###
 
-<p align="left">MernStack Developer</p>
+<p align="center">MernStack Developer</p>
 
 ###
 
