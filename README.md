@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/481768841_1149776180111529_3629682360606918791_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGnkTbNYiRVVdsyYWn5IfvxjmcqKFFaLD2OZyooUVosPRBL-p9xTQDXdksW0qIxc2xRPbQu7IMG2212Xf9jcTPi&_nc_ohc=ShCrT0d-JH4Q7kNvgFlDsCN&_nc_oc=Adhkvc9j0qQT34i3Fyu_8muSDvfth4i_jb78MNLGhp9pHOfYoKrVInb6SBc8ChqM5RQ&_nc_zt=23&_nc_ht=scontent.fdac31-1.fna&_nc_gid=Ae8bhG-wuIK-Ey5rHHQHIBd&oh=00_AYAa8YKTyaNnoksb5qThDVqR9F4iJ_VO282zqnqSpdCEOw&oe=67BFDA44"  />
+  <img height="200" src="[https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/481768841_1149776180111529_3629682360606918791_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGnkTbNYiRVVdsyYWn5IfvxjmcqKFFaLD2OZyooUVosPRBL-p9xTQDXdksW0qIxc2xRPbQu7IMG2212Xf9jcTPi&_nc_ohc=ShCrT0d-JH4Q7kNvgFlDsCN&_nc_oc=Adhkvc9j0qQT34i3Fyu_8muSDvfth4i_jb78MNLGhp9pHOfYoKrVInb6SBc8ChqM5RQ&_nc_zt=23&_nc_ht=scontent.fdac31-1.fna&_nc_gid=Ae8bhG-wuIK-Ey5rHHQHIBd&oh=00_AYAa8YKTyaNnoksb5qThDVqR9F4iJ_VO282zqnqSpdCEOw&oe=67BFDA44](https://media.licdn.com/dms/image/v2/D5616AQH5hQzHIyrm3A/profile-displaybackgroundimage-shrink_350_1400/B56ZUu7wmYGsAc-/0/1740249174445?e=1745452800&v=beta&t=UdE_LlLUtYUcaAeTqcp3EIKGGYOTEvIKh5yLXJbuIbA)"  />
 </div>
 
 ###
@@ -64,29 +64,3 @@
   <img src="https://profile-counter.glitch.me/sabbir6175/count.svg?"  />
 </div>
 
-###
-
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-
-
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sabbir6175/sabbir6175/output/snake.svg" alt="Snake animation" />
-
-###
