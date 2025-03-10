@@ -18,13 +18,7 @@
 ###
 
 <h2 align="left">🔥 What I'm Currently Doing </h2>
-<p>🚀 Exploring Next.js - Learning SSR & SSG for better web performance.</p>
-<p>💼 Building My Portfolio - Showcasing my best projects and frontend skills.</p>
-<p>🌍 Contributing to Open Source - Collaborating with developers to improve my coding practices.</p>
-<p>🎯 Mastering TypeScript - Enhancing my JavaScript proficiency with better type safety.</p>
-<p>📖 Learning Backend Development - Expanding my skill set with Node.js and Express.js.</p>
-
-
+<p align="left">🚀 Exploring Next.js - Learning SSR & SSG for better web performance.<br>🌍 Contributing to Open Source - Collaborating with developers to improve my coding practices.<br>🎯 Mastering TypeScript - Enhancing my JavaScript proficiency with better type safety.<br>📖 Learning Backend Development - Expanding my skill set with Node.js and Express.js..</p>
 
 ###
 
