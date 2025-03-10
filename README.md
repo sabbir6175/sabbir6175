@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">MernStack Developer</p>
+<p align="center">MERN Stack Developer || Build dynamic, user-friendly, and visually appealing web applications || Proficient in React.js, Node.js, Express.js, MongoDB, and Firebase authentication system.</p>
 
 ###
 
