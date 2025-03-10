@@ -17,8 +17,7 @@
 
 ###
 
-
-🔥 What I'm Currently Doing
+<h2 align="left">🔥 What I'm Currently Doing </h2>
 <p>🚀 Exploring Next.js - Learning SSR & SSG for better web performance.</p>
 <p>💼 Building My Portfolio - Showcasing my best projects and frontend skills.</p>
 <p>🌍 Contributing to Open Source - Collaborating with developers to improve my coding practices.</p>
