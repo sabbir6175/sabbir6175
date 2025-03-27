@@ -13,7 +13,7 @@
 ###
 
 <h2 align="center">About Me: </h2>
-<p>I am a MERN Stack Developer with 1 year of experience in building dynamic and scalable web applications. Currently, I am pursuing a Diploma in Engineering in Computer Science and Technology at Dinajpur Polytechnic Institute (7th semester). I specialize in React, Node.js, Express, and MongoDB. I am passionate about creating innovative web solutions and am always learning new full-stack technologies to stay ahead in the ever-evolving tech landscape. I am eager to take on new challenges and contribute to impactful web development projects.</p>
+<p>I am a MERN Stack Developer specializing in building dynamic and scalable web applications. Currently, I am pursuing a Diploma in Engineering in Computer Science and Technology at Dinajpur Polytechnic Institute (7th semester). I focus on React, Node.js, Express, and MongoDB, and I am passionate about creating innovative web solutions. I continuously learn new full-stack technologies to stay ahead in the ever-evolving tech landscape. I am eager to take on new challenges and contribute to impactful web development projects.</p>
 
 ###
 
