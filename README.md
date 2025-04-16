@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D5616AQFPIogVyk9SFQ/profile-displaybackgroundimage-shrink_350_1400/B56ZWBdlcpHQAg-/0/1741633772781?e=1747872000&v=beta&t=nXYtmLesarkgGRLET0LbVuC711cCDO9HnsXYLCpGRhw"  />
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D5616AQH0mDENjglABQ/profile-displaybackgroundimage-shrink_350_1400/B56ZY_kVtGGUAY-/0/1744823213745?e=1750291200&v=beta&t=9TJWREakw9P604xpRTc5UKrUMTkQjrYQ44ZPnYl5yBE"  />
 </div>
 
 ###
@@ -8,12 +8,12 @@
 
 ###
 
-<p align="center">MERN Stack Developer || Build dynamic, user-friendly, and visually appealing web applications || Proficient in React.js, Node.js, Express.js, MongoDB, and Firebase authentication system.</p>
+<p align="center">Front-End Developer || Build dynamic, user-friendly, and visually appealing web applications || Proficient in React.js, Node.js, Express.js, MongoDB, and Firebase authentication system.</p>
 
 ###
 
 <h2 align="center">About Me: </h2>
-<p>I am a MERN Stack Developer specializing in building dynamic and scalable web applications. Currently, I am pursuing a Diploma in Engineering in Computer Science and Technology at Dinajpur Polytechnic Institute (7th semester). I focus on React, Node.js, Express, and MongoDB, and I am passionate about creating innovative web solutions. I continuously learn new full-stack technologies to stay ahead in the ever-evolving tech landscape. I am eager to take on new challenges and contribute to impactful web development projects.</p>
+<p>I'm a Front-End Developer with a strong focus on building dynamic, responsive, and scalable web applications. Currently, I’m in my 7th semester of a Diploma in Engineering in Computer Science and Technology at Dinajpur Polytechnic Institute.I specialize in React, Node.js, Express, and MongoDB, and I’m deeply passionate about crafting innovative and user-friendly web solutions. I’m constantly exploring and learning modern full-stack technologies to stay up-to-date in the ever-evolving tech world.I'm always eager to take on new challenges and contribute to meaningful and impactful web development projects.</p>
 
 ###
 
