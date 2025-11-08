@@ -11,7 +11,7 @@
 
 ###
 
-<p align="center">Front-End Developer || Build dynamic, user-friendly, and visually appealing web applications || Proficient in React.js, Node.js, Express.js, MongoDB, and Firebase authentication system.</p>
+<p align="center">Front-End Developer || MERN Stack Developer || Build dynamic, user-friendly, and visually appealing web applications || Proficient in React.js, Next.js Node.js, Express.js, MongoDB, Mongoose, Mongodb, TypeScript and Firebase authentication system.</p>
 
 ###
 
