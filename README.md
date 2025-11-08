@@ -16,12 +16,12 @@
 ###
 
 <h2 align="center">About Me: </h2>
-<p>I'm a Front-End Developer with a strong focus on building dynamic, responsive, and scalable web applications. Currently, I’m in my 7th semester of a Diploma in Engineering in Computer Science and Technology at Dinajpur Polytechnic Institute.I specialize in React, Node.js, Express, and MongoDB, and I’m deeply passionate about crafting innovative and user-friendly web solutions. I’m constantly exploring and learning modern full-stack technologies to stay up-to-date in the ever-evolving tech world.I'm always eager to take on new challenges and contribute to meaningful and impactful web development projects.</p>
+<p>I'm a MERN Stack Developer with a strong focus on building dynamic, responsive, and scalable web applications. Currently, I’m in my 7th semester of a Diploma in Engineering in Computer Science and Technology at Dinajpur Polytechnic Institute.I specialize in React, Node.js, Express, and MongoDB, and I’m deeply passionate about crafting innovative and user-friendly web solutions. I’m constantly exploring and learning modern full-stack technologies to stay up-to-date in the ever-evolving tech world.I'm always eager to take on new challenges and contribute to meaningful and impactful web development projects.</p>
 
 ###
 
 <h2 align="center">🔥 What I'm Currently Doing </h2>
-<p align="left"> 🔭 I’m currently working on MERN Stack Projects.<br>🚀 Exploring Next.js - Learning SSR & SSG for better web performance.<br>🌍 Contributing to Open Source - Collaborating with developers to improve my coding practices.<br>📖 Learning Backend Development - Expanding my skill set with Node.js and Express.js..</p>
+<p align="left"> 🔭 I’m currently working on MERN Stack Projects.<br>🚀 Exploring Next.js - Learning SSR & SSG for better web performance.<br>🌍 Contributing to Open Source - Collaborating with developers to improve my coding practices.<br>📖 Learning Backend Development - Expanding my skill set with Node.js, Express.js, Mongoose, Mongodb, TypeScript</p>
 
 ###
 
