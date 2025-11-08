@@ -7,7 +7,7 @@
 
 ###
 
-<h1 align="center">Hey 👋 I'm Sabbir Hasan</h1>
+<h1 align="center">Hi 👋 I'm Sabbir Hasan</h1>
 
 ###
 
